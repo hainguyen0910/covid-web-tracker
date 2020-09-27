@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #f5f6fa;
+}
+
+.App {
+  display: flex;
+  justify-content: space-evenly;
+  padding: 20px;
+}
+
+.app-left{
+  flex: 0.8;
+}
+
+.app-stats {
+  display: flex;
+  justify-content: space-between;
+}
+
+.worldwide-new-cases{
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+@media (max-width: 990px){
+  .App{
+    flex-direction: column;
+  }
+}
