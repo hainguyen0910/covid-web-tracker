@@ -1,7 +1,7 @@
 # Covid web tracker
 
 This covid tracked project developed by me is based on [ReactJs](https://reactjs.org/) and [Material-UI](https://material-ui.com/).<br />
-You can drop by [here](https://react-hangman-game.vercel.app/) and give me 1 star. Thank you 💖💖💖
+You can drop by [here](http://react-covid-tracker-hainguyen0910.surge.sh/) and give me 1 star. Thank you 💖💖💖
 
 ## Preview
 
